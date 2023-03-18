@@ -2,8 +2,7 @@
 
 ##### Algumas coisinhas sobre mim
 - 👨‍🔬 Sou estudante de Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR).
-- 🧑‍💻 Trabalho como Dev. Fullstack na [StartSe](https://www.startse.com/) na squad do APP (Flutter Powered).
-- 📱 Participando do projeto [Aventura com Bako](https://github.com/evertonfoz/aventura_com_bako "Aventura com Bako") da UTFPR construindo o front-end e back-end do aplicativo.
+- 🧑‍💻 Trabalho como Dev. Mobile na [StartSe](https://www.startse.com/) na squad do APP (Flutter Powered).
 
 ###
 <div align="center">
